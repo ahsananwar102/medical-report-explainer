@@ -1,0 +1,37 @@
+{
+  "feedback_entries": [
+    {
+      "id": 1,
+      "timestamp": "2025-07-27T00:48:21.722185",
+      "feedback_type": "summary",
+      "rating": "thumbs_up",
+      "query": "Summary at 8th-grade level",
+      "response": "This medical report is about Mr. Tan Ah Kow, a 55-year-old man with several serious health problems.\n\n**1. Main Medical Issues:** Mr. Tan has dementia (a condition causing loss of memory and thinking skills), the effects of several strokes (damage to the brain from blocked blood vessels), heart problems (cardiomyopathy and heart failure), and kidney disease (chronic renal disease).  He also has high blood pressure (hypertension) and high cholesterol (hyperlipidemia).  Because of his dementia, he needs help with basic daily tasks like bathing and using the toilet.\n\n**2. Tests and Examinations:**  Dr. Tan Ah Moi, Mr. Tan's doctor since 2010, conducted a mental state examination on June 20, 2015. This involved observing Mr. Tan's behavior, asking him questions about his personal information, current events, and simple arithmetic, and assessing his ability to understand and respond to information.  The report also mentions past CT and MRI brain scans (imaging tests of the brain) done after his strokes in 2005 and 2010.\n\n**3. Findings:** The examination showed that Mr. Tan's dementia and strokes have significantly affected his cognitive abilities (thinking and memory). He had trouble remembering basic information like his age, address, and the current date. He struggled with simple math problems and couldn't recognize common coins and bills. He also showed difficulty understanding and retaining information, even when it was explained to him.  His son, Mr. Tan Ah Beng, confirmed that Mr. Tan needs significant assistance with daily living.\n\n**4. Treatment Plan:** The report doesn't detail a specific treatment plan beyond ongoing monitoring.  The doctor notes that Mr. Tan's dementia is unlikely to improve and will probably worsen over time, as there's no cure for his type of dementia.  The main focus seems to be on assessing his mental capacity to make decisions about his personal care and finances. The doctor concludes that Mr. Tan lacks the mental capacity to manage his personal welfare or his property and financial affairs.\n",
+      "comments": "",
+      "session_id": "f4c12896-a517-464b-ae7e-b08fbb44c0e1"
+    },
+    {
+      "id": 2,
+      "timestamp": "2025-07-27T00:50:31.585550",
+      "feedback_type": "summary",
+      "rating": "thumbs_up",
+      "query": "Summary at 8th-grade level",
+      "response": "Summary of John Doe's Medical Report:\n\nJohn Doe, a 45-year-old man with high blood pressure (hypertension) and type 2 diabetes, came to the emergency room because of sudden chest pain and shortness of breath.  The pain felt like pressure or squeezing in his chest (substernal) and spread to his left arm. He was also sweating (diaphoresis), nauseous, and slightly short of breath (dyspnea).\n\n**Main Medical Issues:** Doctors are concerned that John Doe might be having a heart problem called acute coronary syndrome (ACS), which means his heart might not be getting enough blood.  His high blood pressure and diabetes also need to be managed.\n\n**Tests and Examinations:** To figure out what's wrong, the doctors ordered an electrocardiogram (ECG – a test that checks the heart's electrical activity), blood tests to check for heart damage (cardiac enzymes), and a chest X-ray (an image of the lungs and heart).\n\n**Findings:**  John Doe's vital signs (blood pressure, heart rate, breathing rate, oxygen level) showed some abnormalities. His blood pressure was high, and he had crackles in his lungs (sounds heard with a stethoscope that suggest fluid in the lungs).\n\n**Treatment Plan:**  The main focus is to find out if John Doe is having a heart attack.  He was given aspirin to help prevent blood clots. His existing medications for high blood pressure (lisinopril) and diabetes (metformin) will continue.  His blood sugar levels will be monitored.\n",
+      "comments": "",
+      "session_id": "f4c12896-a517-464b-ae7e-b08fbb44c0e1"
+    },
+    {
+      "id": 3,
+      "timestamp": "2025-07-27T01:08:19.023673",
+      "feedback_type": "summary",
+      "rating": "thumbs_up",
+      "query": "Summary at 8th-grade level",
+      "response": "Summary of John Doe's Medical Report (for educational purposes only)\n\nJohn Doe, a 45-year-old man with high blood pressure (hypertension) and type 2 diabetes, came to the emergency room because of sudden chest pain and shortness of breath.  The pain felt like a crushing pressure behind his breastbone (substernal) and spread to his left arm. He was also sweating (diaphoresis), nauseous, and slightly short of breath (dyspnea).\n\n**Main Medical Issues:**\n\nDoctors think John might be having an acute coronary syndrome (ACS), which means there might be a problem with his heart's blood flow.  This is a serious condition. He also has ongoing high blood pressure and diabetes.\n\n**Tests and Examinations:**\n\nTo figure out what's wrong, the doctors ordered:\n\n* **ECG (electrocardiogram):** A test that checks the heart's electrical activity.\n* **Cardiac enzymes:** Blood tests to see if there's damage to the heart muscle.\n* **Chest X-ray:** A picture of the lungs and heart to check for problems.\n\nThe doctor also listened to his heart and lungs and checked his blood pressure, heart rate, breathing rate, oxygen levels, and temperature.  His lungs showed some crackling sounds (crackles), which might indicate fluid.\n\n**Findings:**\n\nJohn's vital signs showed his blood pressure and heart rate were high. The crackles in his lungs suggest possible fluid build-up.  The results of the ECG, cardiac enzymes, and chest X-ray will help determine the extent of the heart problem.\n\n**Treatment Plan:**\n\n* **For the possible heart problem (ACS):**  Doctors are running tests to find out exactly what's happening.\n* **For high blood pressure:** He'll continue taking his blood pressure medicine (lisinopril).\n* **For diabetes:** His blood sugar will be monitored.\n* **New medication:** He's started taking aspirin to help prevent blood clots.\n\n\n**Important Note:** This is a simplified summary for educational purposes.  A complete understanding of Mr. Doe's condition requires a full review of his medical records by a qualified healthcare professional.\n",
+      "comments": "",
+      "session_id": "15ba9503-0f58-45bf-84e3-a041e700b1d6"
+    }
+  ],
+  "created_at": "2025-07-26T23:09:45.314636",
+  "total_feedback": 3,
+  "last_updated": "2025-07-27T01:08:19.023747"
+}
