@@ -6,7 +6,6 @@ A comprehensive tool for explaining medical reports using RAG and LLM
 import streamlit as st
 import uuid
 from pathlib import Path
-import plotly.express as px
 import pandas as pd
 
 # Configure page
